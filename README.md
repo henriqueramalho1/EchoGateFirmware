@@ -1,1 +1,1 @@
-# EchoGateFirmware
+# Echo Gate Firmware
